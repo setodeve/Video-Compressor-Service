@@ -15,5 +15,6 @@ class InetSetting:
         self.sock = socket.socket(socket.AF_INET, type)
         self.size = 1400
         self.text_size = 1024
+        self.file_type = ""
         self.sock.settimeout(20)
         self.file_size = 0
