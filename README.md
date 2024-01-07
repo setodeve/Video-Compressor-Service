@@ -43,4 +43,4 @@ python3 client.py
 9. 編集後のファイルはOutputフォルダに格納
 10. 編集が完了したこととどこに編集後のファイルが格納されているかクライアントに通知
 
-![demo](./demo.gif)
+<img src="https://github.com/setodeve/Video-Compressor-Service/assets/83833293/5d518b46-2982-4412-adf7-07522b4f6449" width="1000">
